@@ -26,7 +26,7 @@ Create a directory named "my-folder"
 ```
 mkdir my-folder
 ```
-<img width="1479" height="50" alt="Screenshot 2026-03-17 123338" src="https://github.com/user-attachments/assets/fe4b7c44-3afa-4d67-ba27-036874ec6c50" />
+<img width="1469" height="43" alt="Screenshot 2026-03-17 140459" src="https://github.com/user-attachments/assets/f4b89ed5-1aa2-4597-b998-9bc2af2418ff" />
 
 
 
@@ -35,7 +35,7 @@ Remove the directory "my-folder"
 ```
 rmdir my-folder
 ```
-<img width="1473" height="362" alt="Screenshot 2026-03-17 124437" src="https://github.com/user-attachments/assets/b1d0ee68-bd2a-43f0-8eca-f9d2c3e369e7" />
+<img width="1479" height="50" alt="Screenshot 2026-03-17 123338" src="https://github.com/user-attachments/assets/b0213f6a-ad07-4558-930a-72f9617f6693" />
 
 
 
