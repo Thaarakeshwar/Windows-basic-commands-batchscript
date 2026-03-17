@@ -26,7 +26,8 @@ Create a directory named "my-folder"
 ```
 mkdir my-folder
 ```
-<img width="1469" height="43" alt="image" src="https://github.com/user-attachments/assets/aa99ab62-a6aa-47e7-bafd-3168838a9198" />
+<img width="1479" height="50" alt="Screenshot 2026-03-17 123338" src="https://github.com/user-attachments/assets/fe4b7c44-3afa-4d67-ba27-036874ec6c50" />
+
 
 
 Remove the directory "my-folder"
@@ -43,7 +44,7 @@ Create the file Rose.txt
 ```
 COPY CON Rose.txt
 ```
-<img width="1901" height="113" alt="Screenshot 2026-03-17 124608" src="https://github.com/user-attachments/assets/9841ce00-7b9e-409b-90cb-a5473afd84f7" />
+<img width="1473" height="362" alt="Screenshot 2026-03-17 124437" src="https://github.com/user-attachments/assets/fe8762a0-442c-4e24-a871-024e77f03a70" />
 
 
 Create the file hello.txt using echo and redirection
@@ -52,7 +53,7 @@ Create the file hello.txt using echo and redirection
 echo “hello world” > hello.txt
 type hello.txt
 ```
-<img width="1449" height="59" alt="Screenshot 2026-03-17 124713" src="https://github.com/user-attachments/assets/3dd1ff02-1256-4178-957f-71c6597f30dd" />
+<img width="1901" height="113" alt="Screenshot 2026-03-17 124608" src="https://github.com/user-attachments/assets/ab42e245-a4f2-4cfe-971a-d29341c56f64" />
 
 
 
@@ -61,8 +62,7 @@ Copy the file hello.txt into the file hello1.txt
 ```
 copy hello.txt hello1.txt
 ```
-<img width="1467" height="42" alt="Screenshot 2026-03-17 124832" src="https://github.com/user-attachments/assets/10e2153c-3cbb-4bbf-8c14-06cd8ceb98dc" />
-
+<img width="1449" height="59" alt="Screenshot 2026-03-17 124713" src="https://github.com/user-attachments/assets/42f2f34c-3b07-4d41-907c-f50ad037c44b" />
 
 
 Remove the file hello1.txt
@@ -70,7 +70,7 @@ Remove the file hello1.txt
 ```
 del hello1.txt
 ```
-![alt text](../remove.png)
+<img width="1467" height="42" alt="Screenshot 2026-03-17 124832" src="https://github.com/user-attachments/assets/f5e8bf8a-c77d-4744-8aa8-e5fe73b306f0" />
 
 
 List out the file hello1.txt in the current directory
