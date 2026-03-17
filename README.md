@@ -26,7 +26,7 @@ Create a directory named "my-folder"
 ```
 mkdir my-folder
 ```
-![alt text](../mkdir.png)
+<img width="1469" height="43" alt="image" src="https://github.com/user-attachments/assets/aa99ab62-a6aa-47e7-bafd-3168838a9198" />
 
 
 Remove the directory "my-folder"
@@ -34,7 +34,8 @@ Remove the directory "my-folder"
 ```
 rmdir my-folder
 ```
-![alt text](../rmdir.png)
+<img width="1473" height="362" alt="Screenshot 2026-03-17 124437" src="https://github.com/user-attachments/assets/b1d0ee68-bd2a-43f0-8eca-f9d2c3e369e7" />
+
 
 
 Create the file Rose.txt
@@ -42,6 +43,8 @@ Create the file Rose.txt
 ```
 COPY CON Rose.txt
 ```
+<img width="1901" height="113" alt="Screenshot 2026-03-17 124608" src="https://github.com/user-attachments/assets/9841ce00-7b9e-409b-90cb-a5473afd84f7" />
+
 
 Create the file hello.txt using echo and redirection
 ## COMMAND AND OUTPUT
@@ -49,7 +52,8 @@ Create the file hello.txt using echo and redirection
 echo “hello world” > hello.txt
 type hello.txt
 ```
-![alt text](../echo.png)
+<img width="1449" height="59" alt="Screenshot 2026-03-17 124713" src="https://github.com/user-attachments/assets/3dd1ff02-1256-4178-957f-71c6597f30dd" />
+
 
 
 Copy the file hello.txt into the file hello1.txt
@@ -57,7 +61,8 @@ Copy the file hello.txt into the file hello1.txt
 ```
 copy hello.txt hello1.txt
 ```
-![alt text](../copy.png)
+<img width="1467" height="42" alt="Screenshot 2026-03-17 124832" src="https://github.com/user-attachments/assets/10e2153c-3cbb-4bbf-8c14-06cd8ceb98dc" />
+
 
 
 Remove the file hello1.txt
@@ -73,7 +78,8 @@ List out the file hello1.txt in the current directory
 ```
 dir hello1.txt
 ```
-![alt text](../dir.png)
+<img width="1467" height="172" alt="Screenshot 2026-03-17 124926" src="https://github.com/user-attachments/assets/30121e72-6b4d-404c-9202-645e089b6c27" />
+
 
 
 List out all the associated file extensions 
@@ -81,7 +87,8 @@ List out all the associated file extensions
 ```
 assoc | more
 ```
-![alt text](../assoc.png)
+<img width="1442" height="650" alt="Screenshot 2026-03-17 125109" src="https://github.com/user-attachments/assets/4071a5bc-5b28-4755-9a19-d752152729ee" />
+
 
 
 Compare the file hello.txt and rose.txt
@@ -89,6 +96,9 @@ Compare the file hello.txt and rose.txt
 ```
 fc hello.txt Rose.txt
 ```
+<img width="1447" height="188" alt="Screenshot 2026-03-17 125240" src="https://github.com/user-attachments/assets/53243422-49fc-4dfc-829b-827e17a72a16" />
+
+
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -105,7 +115,7 @@ pause
 
 ## OUTPUT
 
-![alt text](../1.bat.png)
+<img width="1471" height="77" alt="Screenshot 2026-03-17 125746" src="https://github.com/user-attachments/assets/e6fbf042-279b-4bec-b231-576aa1803134" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -143,7 +153,7 @@ pause
 
 ## OUTPUT
 
-![alt text](../2.bat.png)
+<img width="1471" height="218" alt="Screenshot 2026-03-17 130215" src="https://github.com/user-attachments/assets/9ac96331-ddb8-40dc-99e4-eb1a6f7b0f04" />
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -161,7 +171,8 @@ pause
 
 ## OUTPUT
 
-![alt text](../3.bat.png)
+<img width="1459" height="173" alt="Screenshot 2026-03-17 130337" src="https://github.com/user-attachments/assets/15c756cc-4e5c-49ac-adff-57e22380363e" />
+
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -189,7 +200,8 @@ echo "hello world" > sample.txt
 
 ## OUTPUT
 
-![alt text](../4.bat.png)
+<img width="1471" height="80" alt="Screenshot 2026-03-17 130806" src="https://github.com/user-attachments/assets/eac21f31-dc61-4f51-8fb2-3c819892c6e4" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -229,7 +241,8 @@ pause
 
 ## OUTPUT
 
-![alt text](../5.bat.png)
+<img width="1475" height="402" alt="Screenshot 2026-03-17 131058" src="https://github.com/user-attachments/assets/800dd0f3-39e1-4c99-a336-76e7cd7d0c8f" />
+
 
 # RESULT:
 The commands/batch files are executed successfully.
